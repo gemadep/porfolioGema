@@ -1,4 +1,5 @@
 # Portfolio - Gema Deprado
+link al repositorio: https://github.com/gemadep/porfolioGema.git
 
 Este repositorio contiene el código de mi portfolio web como diseñadora de producto. 
 La página presenta mi enfoque de diseño basado en el equilibrio entre funcionalidad, estética y sostenibilidad, y reúne cuatro proyectos de diseño de producto desarrollados a partir de investigación, experimentación con materiales y reflexión conceptual.
